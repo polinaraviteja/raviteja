@@ -129,13 +129,6 @@ I design and develop scalable applications, widgets, and ERP systems using the Z
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raviteja\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raviteja\&layout=compact)
-
----
-
 ## ⚡ Fun Fact
 
 > I enjoy building Zoho widgets and Deluge logic that replace manual work completely.
