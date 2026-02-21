@@ -1,4 +1,3 @@
-![Banner](banner.png)
 # 👋 Hi, I'm Ravi Teja
 
 🚀 **Zoho Developer | ERP & Automation Specialist**
