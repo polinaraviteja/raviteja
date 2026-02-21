@@ -98,6 +98,7 @@ I design and develop scalable applications, widgets, and ERP systems using the Z
 * 🔄 Integrated:
 
   * Zoho Creator
+  * Zoho Analytics
   * Zoho Books
   * Zoho Flow
 * 📊 Automated:
@@ -122,9 +123,9 @@ I design and develop scalable applications, widgets, and ERP systems using the Z
 
 ## 📫 Connect With Me
 
-* 📧 Email: **[your-email@example.com](mailto:your-email@example.com)**
-* 💼 LinkedIn: **https://linkedin.com/in/your-profile**
-* 💻 GitHub: **https://github.com/raviteja**
+* 📧 Email: **[ravitejapolina2@gmail.com](mailto:ravitejapolina2@gmail.com)**
+* 💼 LinkedIn: **https://linkedin.com/in/polinaraviteja**
+* 💻 GitHub: **https://github.com/polinaraviteja**
 
 ---
 
